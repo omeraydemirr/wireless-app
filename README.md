@@ -61,4 +61,4 @@ react-native run-android
 ![Topology](./src/assets/gitImages/topology.png)
 
 ## License
-[GNU 3.0]()
+[GNU 3.0](https://github.com/omeraydemirr/wireless-app/blob/16ed234da6fff3fff3cde9844faa654ca3c6087f/LICENSE)
